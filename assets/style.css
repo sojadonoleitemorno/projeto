@@ -1,0 +1,19 @@
+body {
+    background: url("https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcS2WvE5gf4v58FuZ5MY-HZ5QrYgDwF8LvlLFP7JAQS9A2hNVBryKX3s19gCKBtw8jNS3uKnmsWr7lUNcwo");
+    font-family: Bai Jamjuree;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
+
+footer p {
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
+}
